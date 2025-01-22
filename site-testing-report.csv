@@ -1,0 +1,11 @@
+Test Case ID,Test Case Name,Steps,Expected Result,Status
+TC001,Homepage Load Test,"1. Navigate to the homepage. 2. Verify the homepage loads without errors.",Homepage loads successfully with all elements visible.,Done
+TC002,Navigation Bar,"1. Verify all links in the navigation bar. 2. Click each link and ensure it redirects correctly.",All navigation links work as expected.,Done
+TC003,Product Listings,"1. Navigate to the product listing page. 2. Verify all products are displayed with images, names, and prices.",All products are displayed correctly.,Done
+TC004,Search Functionality,"1. Use the search bar to search for a product. 2. Verify search results are accurate.",Search results match the query.,Done
+TC005,Add to Cart,"1. Select a product. 2. Click 'Add to Cart'. 3. Verify the cart updates with the selected product.",Product is added to the cart successfully.,Done
+TC006,Responsive Design,"1. Open the site on desktop, tablet, and mobile devices. 2. Verify the layout adapts correctly.",Site layout is responsive on all devices.,Done
+TC007,Accessibility,"1. Run accessibility tests using axe-core or Lighthouse. 2. Verify compliance with WCAG standards.",No major accessibility issues found.,Done
+TC008,Performance,"1. Measure the page load time using Lighthouse. 2. Identify and fix bottlenecks.",Page loads within acceptable time limits.,Done
+TC009,API Error Handling,"1. Simulate API failure for product data. 2. Verify error message displays properly.",Error message is user-friendly and informative.,Done
+TC010,Security,"1. Test for vulnerabilities like XSS and CSRF. 2. Verify HTTPS and secure cookies.",No critical security vulnerabilities found.,Done

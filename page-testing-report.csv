@@ -1,0 +1,12 @@
+Page URL,Test Case ID,Test Case Name,Steps,Expected Result,Status
+https://day-6-staging-comforty.vercel.app/Home,TC001,Homepage Load Test,"1. Navigate to the homepage. 2. Verify the homepage loads without errors.",Homepage loads successfully with all elements visible.,Done
+https://day-6-staging-comforty.vercel.app/Home,TC002,Navigation Bar,"1. Verify all links in the navigation bar. 2. Click each link and ensure it redirects correctly.",All navigation links work as expected.,Done
+https://day-6-staging-comforty.vercel.app/Product,TC003,Product Details Display,"1. Navigate to the product page. 2. Verify product name, price, and description.",Product details are displayed correctly without missing information.,Done
+https://day-6-staging-comforty.vercel.app/Product,TC004,Add to Cart,"1. Select a product. 2. Click 'Add to Cart'. 3. Verify the cart updates with the selected product.",Product is added to the cart successfully.,Done
+https://day-6-staging-comforty.vercel.app/Pages,TC005,Pages Navigation,"1. Navigate to the Pages section. 2. Verify links to sub-pages work.",All sub-pages are accessible and load correctly.,Done
+https://day-6-staging-comforty.vercel.app/AboutUs,TC006,About Us Page,"1. Navigate to the About Us page. 2. Verify the content is accurate and loads properly.",About Us page content displays correctly.,Done
+https://day-6-staging-comforty.vercel.app/Contact,TC007,Contact Form,"1. Navigate to the Contact page. 2. Submit the contact form with valid data.",Contact form submission is successful.,Done
+https://day-6-staging-comforty.vercel.app/Faqs,TC008,FAQs Page,"1. Navigate to the FAQs page. 2. Verify all questions and answers are displayed.",FAQs page displays all content correctly.,Done
+https://day-6-staging-comforty.vercel.app/Cart,TC009,Cart Functionality,"1. Add a product to the cart. 2. Navigate to the Cart page. 3. Verify the cart contents.",Cart page displays the correct products.,Done
+https://day-6-staging-comforty.vercel.app/checkout,TC010,Checkout Process,"1. Navigate to the Checkout page. 2. Complete the checkout process with valid data.",Checkout process completes successfully.,Done
+https://day-6-staging-comforty.vercel.app/Wishlist,TC011,Wishlist Functionality,"1. Add a product to the Wishlist. 2. Navigate to the Wishlist page. 3. Verify the wishlist contents.",Wishlist displays the correct products.,Done
